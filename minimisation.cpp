@@ -1,5 +1,5 @@
 #include "minimisation.h"
-
+//Made by OshlakovD-IVT22
 
 //Проверка на является ли число степенью 2
 bool isPowerOfTwo(int n) {
